@@ -1,11 +1,6 @@
-# coa594d82b0aa0ef49853c728
 
-Quick start:
 
-```
-$ npm install
-$ npm start
-````
+https://shiny-hummingbird-9fcb19.netlify.app/
 
 Head over to https://vitejs.dev/ to learn more about using vite
 ## About Scrimba
